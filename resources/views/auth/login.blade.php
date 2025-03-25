@@ -12,7 +12,7 @@
         <div class="w-full md:w-1/2 p-8 flex flex-col justify-center">
             <div class="text-center my-4">
                 <img src="{{ asset('images/oasis-logo.png') }}" class="mx-auto" width="45%" alt="RRMS Logo">
-                <p class="text-lg text-gray-800">Online Administrative Services and Integrated Systems <br> (OASIS)</p>
+                <p class="text-lg text-gray-800">Online Admin Services and Integrated Systems <br> (OASIS)</p>
             </div>
 
             <form action="{{ route('login') }}" method="POST" class="px-6">
